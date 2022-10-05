@@ -11,7 +11,7 @@
 <br>
   
 
-<div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"><h2> Team Members: </h2><div>
+<div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"><h2> Team Members: </h2><div>
 <ul><i>
   <li> Renooh S </li>
   <li> Prahlad N </li>
