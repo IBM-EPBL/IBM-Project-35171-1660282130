@@ -13,10 +13,10 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 <ul><i>
-  <li> Shruthi.P.G </li>
-  <li> Vino.S </li>
-  <li> Sindhuja.V </li>
-  <li> Mayakannan.L </li>
+  <li> Renooh S </li>
+  <li> Prahlad N </li>
+  <li> Ram Sundar K G </li>
+  <li> Mohana Prasad P </li>
   </i>
   </ul>
 <br>
